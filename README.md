@@ -627,13 +627,13 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:rafikshah3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=rafikshah3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:dharmikbari64@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=dharmikbari64@gmail.com.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-  <a href="https://wa.me/917028352298" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028352298&size=square" alt="India-+91-702-835-2298" style="margin: 10px;">
+  <a href="https://wa.me/9130379948" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-9130379948&size=square" alt="India-+91-913-037-9948" style="margin: 10px;">
   </a>
 </td>
 
