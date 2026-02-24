@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Technical Trainer | Coder | Tech Enthusiast
+  Tech Enthusiast
 </p>
 
 <div align="center">
@@ -47,7 +47,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+B.E. in Information Technology (Pursuing, 2026) from University of Mumbai, with strong theoretical knowledge of Cloud Computing, AWS, and DevOps. Completed Google Cloud Virtual Internship, gaining understanding of cloud fundamentals and deployments. Proficient in Data Analytics using Power BI, Advanced Python, and SQL for analysis and visualization. Seeking an entry-level role to apply my cloud, DevOps, and analytics skills.
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
@@ -198,27 +198,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 
-<table>
-  <tr>
-    <!-- Discord Widget Column -->
-    <!-- <td align="center" style="border: none;">
-      <a href="https://discord.gg/YdDyV6QqEN">
-        <img src="https://invidget.switchblade.xyz/YdDyV6QqEN" alt="Discord Widget">
-      </a>
-    </td>-->
-    <!-- Discord Banner Column -->
-   <!--  <td align="center" style="border: none;">
-      <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
-    </td>-->
-    <!-- Discord Presence Column -->
-    <!-- <td align="center" style="border: none;">
-      <a href="https://discord.com/users/424279823817375746">
-        <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
-      </a>
-    </td>
-  </tr>
-</table>
---> 
+   
 
 
 <h3 align="center">YouTube Stats</h3>
